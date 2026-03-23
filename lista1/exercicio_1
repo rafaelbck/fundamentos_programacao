@@ -1,0 +1,14 @@
+// exercicios fundamentos
+
+import input from "npm:readline-sync"
+
+let qtdeSolucao: number, 
+    qtdeGotas: number,
+    gotas: number = 0.05;
+
+console.log("insira a quantidade de solução");
+qtdeSolucao = input.questionFloat();
+
+qtdeGotas = qtdeSolucao / gotas;
+
+console.log("A quantidade de gotas é: ", qtdeGotas)
