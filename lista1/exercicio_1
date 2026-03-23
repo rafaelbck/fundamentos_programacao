@@ -1,5 +1,4 @@
-// exercicios fundamentos
-
+// @ts-ignore
 import input from "npm:readline-sync"
 
 let qtdeSolucao: number, 
