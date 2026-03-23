@@ -1,3 +1,7 @@
+/*CARGA-HORÁRIA – Leia a carga-horária de um curso, informada em horas-aulas (50 minutos).
+Calcule e exiba a carga-horária em horas-relógio (60 minutos).*/
+
+// @ts-ignore
 import input from "npm:readline-sync"
 
 let cargaHoraria: number = 0,

@@ -1,3 +1,7 @@
+/* DESCONTO – Leia o preço de um produto, calcule e exiba o valor final, considerando desconto de
+35%. */
+
+// @ts-ignore
 import input from "npm:readline-sync"
 
 let preco: number = 0,

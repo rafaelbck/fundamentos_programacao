@@ -1,3 +1,7 @@
+/* PERCENTUAL DE LEITURA – Leia a página atual e a quantidade de páginas de um livro. Calcule e
+exiba o percentual de leitura concluído */
+
+// @ts-ignore
 import input from "npm:readline-sync"
 
 let pagAtual: number = 0,

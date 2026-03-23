@@ -1,3 +1,7 @@
+/*GOTAS – Leia a quantidade de uma solução em mililitros. Converta e exiba essa mesma quantidade
+em gotas. Para essa solução, assuma que uma gota equivale a 0,05ml (ou seja, 1ml corresponde a
+20 gotas).*/
+
 // @ts-ignore
 import input from "npm:readline-sync"
 
