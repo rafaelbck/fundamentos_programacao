@@ -40,3 +40,4 @@ console.log("Resto da divisão por 10: ", restoDivisao)
 
 digitoVerificador = 10 - restoDivisao
 console.log("Dígito Verificador: ", digitoVerificador)
+
